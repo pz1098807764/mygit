@@ -1,2 +1,5 @@
-hello git
-hello world
+/usr/bin/bash: wq: command not found
+zhangwan
+pangzi
+hongpeifu
+/usr/bin/bash: wq: command not found
